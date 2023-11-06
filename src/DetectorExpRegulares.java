@@ -1,6 +1,8 @@
 import java.util.regex.Pattern;
 /// ----------- PRACTICA CON EXPRESIONES REGULARES -----------
 
+// -> Esto es meramente para estudio personal
+
 
 public class DetectorExpRegulares {
     public static boolean isMutant(String[] dna) {
