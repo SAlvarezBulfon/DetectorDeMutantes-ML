@@ -157,7 +157,7 @@ public class DetectorDeMutantes {
         };
 
 
-        if (isMutant(dna5)){
+        if (isMutant(dna1)){
             System.out.println("MUTANTE");
         }else{
             System.out.println("NO MUTANTE");
